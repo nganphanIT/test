@@ -77,17 +77,17 @@
         <div class="vl">
             <img  class="singer-profile" src="./Mask group.png" alt=""> 
             <hr class="line-small">
-           <i class='fas fa-circle' id="fa-circle-small" style='font-size:38px;color:white;'></i>
-           <div>
+            <i class='fas fa-circle-playing' id="fa-circle" style='font-size:36px;color:white'></i>
+            <div> 
                 <i class='fas fa-volume-up' id="fa-volume-up" style='font-size:36px'></i>
                 <i class='fas fa-backward' id="fa-backward" style='font-size:36px'></i>
-                <a href="./ConvertFigma_Playing.php"><i class='fas fa-play' id="fa-play" style='font-size:36px'></i></a>
+                <i class='fas fa-pause' id="fa-pause" style='font-size:36px'></i>
                 <i class='fas fa-forward' id="fa-forward" style='font-size:36px'></i>
                 <i class='fas fa-random' id="fa-random" style='font-size:36px'></i>
-           </div>
+            </div>
         </div>
-        <hr class="line-2">
         <div class="rectangle"></div>
+        <hr class="line-2">
         <i class='fas fa-circle' id="fa-circle" style='font-size:88px;color:rgb(66, 0, 219)'></i>
         <i class='fas fa-power-off' id="fa-power-off" style='font-size:56px; color:rgb(0, 192, 206)'></i>
     </body>
