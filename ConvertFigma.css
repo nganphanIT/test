@@ -1,0 +1,196 @@
+body{
+    background-image: url('image\ 24.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 1000px;
+}
+.picture-1{
+    position: absolute;
+    width: 162.68px;
+    height: 100px;
+    left: 15px;
+    top: 23px;
+    background: url(2006362);
+}
+.date{
+    position: absolute;
+    width: 396px;
+    height: 83px;
+    left: 191px;
+    top: 63px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #000000;
+}
+
+.picture-2{
+    position: absolute;
+    width: 324px;
+    height: 61px;
+    left: 720px;
+    top: 23px;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #000000;
+}
+.picture-3{
+    position: absolute;
+    left: 80.80%;
+    right: 901px;
+    top: 23px;
+    bottom: 94.23%;
+    border-radius: 5px;
+}
+
+.picture-4{
+    position: absolute;
+    left: 87.08%;
+    top: 23px;
+    bottom: 94.03%;
+    align-items: flex;  
+}
+.picture-5{
+    position: absolute;
+    width: 98px;
+    height: 98px;
+    left: 85%;
+    top: 84px;
+    background: url(setting-icon-500x500.png);
+}
+.time{
+    position: absolute;
+    width: 232px;
+    height: 137px;
+    left: 730px;
+    top: 110px;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 85px;
+
+   
+}
+.line-1{
+    position: absolute;
+    width: 1700px;
+    height: 0px;
+    left: 0px;
+    top: 184px;
+
+    border: 2px solid #1F26D6;
+    transform: rotate(-0.04deg);
+}
+
+/* .search-container {
+   width: 1000px;
+   top: 500px;
+   
+} */
+input[type="text"] {
+    border: 2px solid blue;
+    padding: 10px;
+    width: 380px;
+    height: 50px;
+    border-radius: 25px;
+    font-size: 25px;
+    margin-top: 11%;
+    margin-left: 8%;
+    
+}
+
+.search-container form button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 50px;
+    background: transparent;
+    border: transparent;
+    font-size: 20px;
+    color: #155fff;
+    cursor: pointer;
+    outline: 0;
+}
+.title{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 65pt;
+    font-weight: bold;
+    margin-top: -5%;
+}
+.playing{
+    position: absolute;
+    width: 411px;
+    height: 67px;
+    right: 10%;
+    top: 192px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+
+    color: #000000;
+
+}
+table .singer{
+    top: 20px;
+    left: 20%;
+    width: 150px;
+    height: 150px;
+}
+table .song{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+table{
+    width: 500px;
+    height: 600px;
+    margin-left: 2%;
+
+}
+.vl {
+    border-left: 4px solid black;
+    height: 450px;
+    position: absolute;
+    left: 50%;
+    top: 450px;
+    margin-left: -3px;
+    bottom: 0%;
+  }
+.singer-profile{
+    height: 400px;
+    width: 400px;
+    margin-left: 200px;
+}
+.line-small{
+   
+    background: linear-gradient(to right,yellow, rgb(248, 5, 236) );
+    height: 5px;
+    margin-left: 30%;
+    margin-top: 20px;
+   
+}
+.line-2{
+    position: absolute;
+    width: 1700px;
+    height: 0px;
+    left: 0px;
+    top: 1000px;
+
+    border: 2px solid #1F26D6;
+    transform: rotate(-0.04deg);
+}
+
